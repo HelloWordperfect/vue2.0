@@ -3,11 +3,11 @@
 
 # Build Setup
 
-install dependencies
+  install dependencies
 
-npm install
+1  npm install
 
-serve with hot reload at 127.0.0.1:8080
+   serve with hot reload at 127.0.0.1:8080
 
-npm run dev
+2  npm run dev
 
